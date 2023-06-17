@@ -1,0 +1,3 @@
+[submodule "gramadoir-perl"]
+	path = gramadoir-perl
+	url = ./gramadoir-perl/
